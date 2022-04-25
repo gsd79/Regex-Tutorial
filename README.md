@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # Regex-Tutorial
-=======
-# Regex Tutorial Starter Code
->>>>>>> 808ac42ab938eb1b4e730acd606b411ac87136c6
+
+Checkout the gist deployment for the tutorial! https://gist.github.com/gsd79/0650e978d4bc16f0a5adb73b06d3f687
+
